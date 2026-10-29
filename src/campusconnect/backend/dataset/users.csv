@@ -1,0 +1,51 @@
+user_id,name,location,college_id,college_verified,interests,preferred_mode
+09ff87a2-12dd-4f93-b186-d260ca2cdd2f,Arjun Sharma,Bengaluru,KLU,True,Data Science|Python|Machine Learning|Placement|Hackathons|Artificial Intelligence,both
+58f80c87-4e95-4e38-8958-6caf1d43e7a6,Priya Reddy,Bengaluru,,False,JavaScript|App Development|Python|React|Web Development,both
+ad4f721f-e14d-4f07-9178-397905fd95f3,Sai Kumar,Pune,KLU,True,Data Science|Career|Cloud Computing|Cybersecurity|Networking|Ethical Hacking,offline
+8e660dfe-b5ae-4b9a-8e6d-32599969a33d,Ananya Singh,Bengaluru,,False,Startups|IoT|Programming|Career|Placement|Entrepreneurship,offline
+3fee8fd5-bcd3-431f-813c-e26939f5606a,Rahul Verma,Vijayawada,,False,IoT|Embedded Systems|Hackathons|Arduino|Workshops|Robotics,offline
+4e03ed86-f476-4b37-896d-71112815d02d,Kavya Patel,Hyderabad,,False,Data Science|App Development|Python|Machine Learning|Programming,both
+7c48f666-790c-4b4d-b110-2531025d1643,Aditya Nair,Pune,,False,Photography|Docker|Workshops|Cloud Computing|AWS|DevOps,offline
+8a04bf97-a1d9-4849-8d91-f76be55756fd,Sneha Rao,Pune,KLU,True,Esports|Startups|Python|Programming|Gaming|Game Development,online
+f01c66c9-6b18-42f8-9248-dd12ebbcdce2,Vikram Iyer,Bengaluru,KLU,True,Photography|Music|Placement|Entrepreneurship|Sports|Cultural,both
+6fbeb892-241c-4cf5-ab02-e66dadaed487,Divya Krishnan,Vijayawada,,False,Startups|Programming|Coding Competitions|Hackathons|Gaming|Algorithms,both
+7a5b550b-a15d-4e4d-8478-33b8d852ba15,Nikhil Mehta,Pune,KLU,True,Data Science|Python|Machine Learning|Cloud Computing|Artificial Intelligence|Robotics,offline
+3f56f1ae-3c39-42ee-af92-4e00c9c4bf0c,Shreya Gupta,Chennai,KLU,True,JavaScript|App Development|Music|Cloud Computing|React|Web Development,both
+0882b0fc-6573-4c87-b139-e6b3df0b82fa,Rajan Pillai,Hyderabad,KLU,True,Hackathons|Cloud Computing|Gaming|Cybersecurity|Networking|Ethical Hacking,online
+e8ababfb-62c9-4cc9-94fe-432602f6d6c1,Pooja Malhotra,Vijayawada,,False,Startups|Machine Learning|Career|Placement|Entrepreneurship|Hackathons,online
+d5d1f5b1-e5aa-46e1-99d5-14991766cd6b,Suresh Babu,Chennai,KLU,True,IoT|Embedded Systems|Cloud Computing|Arduino|Robotics|Cultural,offline
+e861a355-b486-492a-81f4-b45e86c3ca3f,Lakshmi Devi,Pune,KLU,True,Photography|Data Science|Python|Machine Learning|Programming|Workshops,offline
+7c3bf94b-0c63-4796-88e7-3ca461e24605,Harish Chandra,Chennai,,False,Docker|Workshops|Cloud Computing|AWS|Sports|DevOps,both
+e2b486cd-3e45-4f5d-96cd-6bc58fc1daf3,Meghana Reddy,Bengaluru,KLU,True,Esports|Programming|Gaming|Game Development|Robotics|Web Development,online
+56460ced-0a45-4716-9000-0a2d1067fb0c,Kiran Teja,Chennai,KLU,True,Photography|Music|Entrepreneurship|Sports|Networking|Cultural,online
+d8e2fedf-2597-4e61-84e7-3260db9ff7f0,Yamini Prasad,Bengaluru,,False,Programming|Entrepreneurship|Coding Competitions|Hackathons|Algorithms|Web Development,both
+6558b96d-3085-4daa-841b-c5a26fe1b653,Rohit Kumar,Bengaluru,KLU,True,Data Science|Python|Machine Learning|Entrepreneurship|Gaming|Artificial Intelligence,online
+500bd3ba-5ea1-47b9-8702-6e7ad8199cba,Preethi Nair,Hyderabad,KLU,True,JavaScript|App Development|Placement|React|Web Development,both
+e9340fb9-efc3-4d2c-99d4-cd2ce8e9068a,Siddharth Rao,Vijayawada,,False,Music|Cloud Computing|Gaming|Cybersecurity|Networking|Ethical Hacking,offline
+50358007-4e35-4518-b4a6-8ca1b280b4e6,Bhavya Singh,Hyderabad,,False,App Development|Startups|Career|Placement|Entrepreneurship|Cloud Computing,online
+0dbbe98e-b076-43b9-ad66-d6c885b64432,Manoj Kumar,Hyderabad,KLU,True,IoT|Seminars|Embedded Systems|Arduino|Robotics|Cultural,online
+d082d349-244e-4c25-826d-75b9a98995c4,Swathi Reddy,Pune,KLU,True,Data Science|Python|Machine Learning|Programming|Seminars|Coding Competitions,online
+5a943595-1620-4a63-bd7c-c4cdcf899724,Venkat Rao,Pune,,False,App Development|Docker|Programming|Cloud Computing|AWS|DevOps,offline
+813e57f4-e856-4ec7-a015-509d8f23b388,Pavani Devi,Vijayawada,KLU,True,Esports|Data Science|Programming|Gaming|Game Development|Web Development,online
+720d5eed-690a-4979-811c-d07641cf3a13,Chaitanya Babu,Hyderabad,,False,Photography|Music|Entrepreneurship|Artificial Intelligence|Sports|Cultural,both
+b34ae945-18b1-4205-8739-57dd394a6465,Keerthi Sharma,Vijayawada,KLU,True,Programming|Coding Competitions|Hackathons|Algorithms|Artificial Intelligence,online
+9cd72c3b-46de-4b58-9117-98844d4bcbe7,Abhijeet Verma,Vijayawada,KLU,True,Data Science|Python|Machine Learning|Career|Workshops|Artificial Intelligence,offline
+1ff598ee-2040-4806-aab0-ec621e66c701,Lavanya Iyer,Pune,KLU,True,JavaScript|App Development|Seminars|Placement|React|Web Development,online
+1cbf2a45-9c7f-4ba1-ba95-9a53bd18b19e,Sachin Patel,Pune,KLU,True,IoT|Placement|Cloud Computing|Cybersecurity|Networking|Ethical Hacking,online
+b5c66756-40ee-4dae-9284-f0cfecd547f5,Manasa Gupta,Chennai,KLU,True,Photography|Startups|Career|Workshops|Placement|Entrepreneurship,both
+7a83f5b8-7a44-477b-a8c4-535aaaa9643a,Dinesh Kumar,Chennai,,False,IoT|Machine Learning|Embedded Systems|Arduino|Robotics|Artificial Intelligence,offline
+952a0fa8-5a30-46fd-ad17-c2302cd833a0,Varshini Rao,Chennai,KLU,True,Photography|Data Science|Python|Machine Learning|Programming|Web Development,online
+a1f8b2f3-1687-4fc3-9680-90293bbf7518,Akshay Mehta,Vijayawada,KLU,True,Docker|Python|Cloud Computing|Coding Competitions|AWS|DevOps,online
+a5891316-6c04-4c4c-af37-96dd4f863b6e,Revathi Krishnan,Pune,KLU,True,Esports|Music|Programming|Gaming|Game Development,both
+49d939bf-82a7-462a-8e1b-0c7dd802a472,Prashanth Nair,Pune,,False,Photography|Startups|Music|Coding Competitions|Sports|Cultural,offline
+874f1694-ee48-4ef8-9880-b4970ea62612,Sunitha Babu,Vijayawada,KLU,True,Programming|IoT|Placement|Coding Competitions|Hackathons|Algorithms,both
+d1796275-2df5-4cef-81c1-f6626a80122e,Gowtham Reddy,Pune,KLU,True,Data Science|Python|Machine Learning|Gaming|Artificial Intelligence|Web Development,both
+7112f21d-f527-447f-ad08-38a651005694,Deepika Singh,Hyderabad,KLU,True,JavaScript|App Development|Career|React|Cybersecurity|Web Development,offline
+df571859-b5f9-4dce-9619-3ea7a306616a,Aravind Kumar,Vijayawada,KLU,True,Placement|Cloud Computing|Coding Competitions|Cybersecurity|Networking|Ethical Hacking,offline
+17ea34a3-7419-4ee0-8ba1-ee48931cc9a0,Mounika Sharma,Bengaluru,KLU,True,Startups|Career|Placement|Entrepreneurship|Coding Competitions,online
+a10462da-5acb-4677-a375-c4278cf088fe,Rajesh Patel,Vijayawada,KLU,True,Photography|IoT|Embedded Systems|Arduino|Robotics,online
+4814f4f7-5437-4260-973e-7f155303eead,Sirisha Rao,Bengaluru,,False,Data Science|Python|Machine Learning|Programming|Career|Web Development,online
+464c2fa6-bfbb-45c0-968f-08bbbf91aaa2,Nithin Verma,Pune,KLU,True,Docker|Machine Learning|Cloud Computing|AWS|DevOps|Cultural,both
+494e325f-2df9-4e27-adc1-706a243a6066,Padmavathi Iyer,Bengaluru,KLU,True,Esports|Photography|Programming|Coding Competitions|Gaming|Game Development,both
+7fff2a35-3031-45f6-8166-ecb4105b1361,Balaji Kumar,Vijayawada,,False,Photography|Music|Seminars|Career|Sports|Cultural,offline
+d2436267-1ca4-4ba0-94ff-f5f1154eef0a,Tejaswi Reddy,Pune,KLU,True,Programming|Music|Coding Competitions|Hackathons|Algorithms,both
